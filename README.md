@@ -2,6 +2,7 @@ Hey, I’m Lynn Hughes, I'm a Senior Associate Fraud Investigative Analyst worki
 I mostly use my Github enterprise account so this is a bit bare. 
 
 Hugging Face: https://huggingface.co/Lynn
+LinkedIn: https://www.linkedin.com/in/lynn-a-hughes/
 
 <!---
 LynnAnalytics/LynnAnalytics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
