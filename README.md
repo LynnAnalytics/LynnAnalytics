@@ -1,4 +1,4 @@
-Hey, I’m Lynn Hughes, I'm a Data Analyst working for Capital One's internal Fraud Department.     
+Hey, I’m Lynn Hughes, I'm a Senior Fraud Investigative Analyst working for Capital One's Internal Fraud Department.     
 I mostly use my Github enterprise account so this is a bit bare. 
 
 <!---
